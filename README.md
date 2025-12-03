@@ -155,6 +155,12 @@ h Enum.map
 
 ---
 
-**Author**: Ricardo Vega
-**Environment**: Windows PowerShell with Elixir 1.19.3 / OTP 28
-**Course**: Elixir Programming Fundamentals
+## 📚 Resources
+
+- **Official Docs**: https://hexdocs.pm/elixir/
+- **Getting Started**: https://elixir-lang.org/getting-started/introduction.html
+- **Elixir School**: https://elixirschool.com/en
+
+- **Author**: Ricardo Vega
+- **Environment**: Windows PowerShell with Elixir 1.19.3 / OTP 28
+- **Course**: Elixir Programming Fundamentals
