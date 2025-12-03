@@ -1,0 +1,42 @@
+# Elixir/Mix artifacts
+**/_build/
+**/deps/
+**/*.beam
+**/*.ez
+
+# Elixir Language Server
+**/.elixir_ls/
+
+# Coverage reports
+**/cover/
+
+# Documentation
+**/doc/
+
+# Temporary files
+**/tmp/
+
+# Crash dumps
+**/erl_crash.dump
+
+# Package manager
+**/mix.lock.~*~
+
+# Environment variables
+**/.env
+**/.env.local
+
+# IDE specific
+**/.vscode/
+**/.idea/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Archives
+**/*.ez
+
+# Test artifacts
+**/.fetch
+```
